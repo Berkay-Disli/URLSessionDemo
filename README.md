@@ -18,7 +18,7 @@ Note: This project was made as an effort to show how to use APIs the most simple
 
 
 <p align="middle">
-  <img src="images/img1.jpg" width=30% height=30%>
-  <img src="images/img2.jpg" width=30% height=30%>
-  <img src="images/img3.jpg" width=30% height=30%>
+  <img src="images/img1.png" width=30% height=30%>
+  <img src="images/img2.png" width=30% height=30%>
+  <img src="images/img3.png" width=30% height=30%>
 </p>
