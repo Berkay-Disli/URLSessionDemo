@@ -1,4 +1,4 @@
-# ExcuseGenerator
+# URLSession Demo - API Services
 A simple app that uses Excuser API service.
 You can use this app to get random excuses for a specific category via **API calls**.
 
