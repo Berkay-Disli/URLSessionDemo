@@ -58,6 +58,8 @@
 		2359069B2823E35000A9FDEA = {
 			isa = PBXGroup;
 			children = (
+				235906D12824040700A9FDEA /* README.md */,
+				235906C82824038F00A9FDEA /* images */,
 				235906A62823E35000A9FDEA /* ExcusesAPI */,
 				235906A52823E35000A9FDEA /* Products */,
 			);
@@ -80,9 +82,7 @@
 				235906A72823E35000A9FDEA /* ExcusesAPIApp.swift */,
 				235906A92823E35000A9FDEA /* ContentView.swift */,
 				235906AB2823E35000A9FDEA /* Assets.xcassets */,
-				235906C82824038F00A9FDEA /* images */,
 				235906AD2823E35000A9FDEA /* Preview Content */,
-				235906D12824040700A9FDEA /* README.md */,
 			);
 			path = ExcusesAPI;
 			sourceTree = "<group>";
